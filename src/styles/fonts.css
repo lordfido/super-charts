@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Cerebri';
+  font-weight: 500;
+  src: url('../assets/fonts/cerebrisans-medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Cerebri';
+  font-weight: 400;
+  src: url('../assets/fonts/cerebrisans-book.woff') format('woff');
+}
